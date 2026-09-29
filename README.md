@@ -1,39 +1,21 @@
-<div align="center">
-  <!-- بانر تفاعلي انسيابي وأنيق -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111827,100:030712&height=210&section=header&text=Maysara%20Issa&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+# 💫 About Me:
+🔭 I’m currently working on:<br><br>Building scalable automation tools and modern web applications.<br><br>👯 I’m looking to collaborate on:<br><br>Open-source projects, automation bots, and creative web interfaces.<br><br>🌱 I’m currently learning:<br><br>Advanced Database Optimization & Modern UI/UX Engineering.<br><br>💬 Ask me about:<br><br>Python automation, Database design, Java, or Front-End styling.<br><br>⚡ Fun fact:<br><br>I turn caffeine and complex logic into clean, functional code.
 
-  <!-- سطر الآلة الكاتبة البرمجي -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Software+%26+Database+Developer;Building+Intelligent+Automations+%26+Bots;Crafting+Modern+Responsive+Web+Apps;Turning+Logic+Into+Impact" alt="Typing SVG" />
-  </a>
 
-  <p align="center">
-    <i>"Simple things should be simple, complex things should be possible."</i>
-  </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maysara.z.issa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maysara_36) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maysara-issa-931748274) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/maysara_issa36) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/These-Sky3710) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@null..36) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/maysaraisaa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCuXA3QNSjEBtbS3EYxr9iFg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maysaraisaa36@gmail.com) 
 
-  <!-- أزرار التواصل المنسقة بنمط أسود ونيلي -->
-  <p align="center">
-    <a href="https://maysara-dev.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8&borderColor=38BDF8" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/maysara-issa-931748274" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://x.com/maysaraisaa" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-    </a>
-  </p>
-</div>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=maysaraisaa1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=maysaraisaa1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=maysaraisaa1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=maysaraisaa1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💻 System Terminal
-
-```bash
-┌──[ maysara@workspace ]─[~]
-└──╼ $ neofetch
-       _       Role       : Software & Database Developer
-      / \      Core Focus : Automations, Telegram Bots & Scalable Web
-     / _ \     Location   : Gaza, Palestine
-    / ___ \    Philosophy : Minimalist, Fast & Secure
-   /_/   \_\   Status     : Building impactful software daily
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
